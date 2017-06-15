@@ -1,0 +1,13 @@
+name: crystimecop
+version: 0.1.0
+
+authors:
+  -  <>
+
+targets:
+  crystimecop:
+    main: src/crystimecop.cr
+
+crystal: 0.22.0
+
+license: MIT
